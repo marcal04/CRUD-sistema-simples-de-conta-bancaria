@@ -69,18 +69,5 @@ exception → Tratamento de erros
 
 Main → Interface com usuário (console)
 
-🚀 Possíveis Melhorias Futuras
-Implementar histórico de transações
-
-Persistência em arquivo ou banco de dados
-
-Criar camada service
-
-Implementar testes unitários (JUnit)
-
-Transformar em API REST com Spring Boot
-
-Dockerizar aplicação
-
 📚 Objetivo do Projeto
 Projeto criado com foco em evolução como desenvolvedor Backend Java, consolidando fundamentos essenciais antes de avançar para frameworks como Spring Boot.
