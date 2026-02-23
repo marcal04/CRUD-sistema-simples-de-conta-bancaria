@@ -13,16 +13,6 @@ Estruturas de dados (Map)
 
 Menu interativo via console
 
-📦 Estrutura do Projeto
-br.com.banco
- ├── model
- │     ├── Conta.java
- │     ├── ContaCorrente.java
- │     └── ContaPoupanca.java
- ├── exception
- │     ├── SaldoInsuficienteException.java
- │     └── ValorInvalidoException.java
- └── Main.java
 🧠 Conceitos Aplicados
 🔹 Encapsulamento
 Atributos privados
